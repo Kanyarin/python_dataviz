@@ -1,0 +1,122 @@
+Country,Province/State,Confirmed,Deaths,Recovered
+Australia,New South Wales,4,0,0
+Australia,Queensland,1,0,0
+Australia,South Australia,2,0,0
+Australia,Unknow,0,0,0
+Australia,Victoria,1,0,0
+Belgium,Unknow,1,0,0
+Brazil,Unknow,0,0,0
+Cambodia,Unknow,1,0,0
+Canada,British Columbia,1,0,0
+Canada,"London, ON",1,0,0
+Canada,Ontario,1,0,0
+Canada,"Toronto, ON",2,0,0
+China,Anhui,1,0,0
+China,Beijing,14,0,0
+China,Chongqing,6,0,0
+China,Fujian,1,0,0
+China,Gansu,0,0,0
+China,Guangdong,26,0,0
+China,Guangxi,2,0,0
+China,Guizhou,1,0,0
+China,Hainan,4,0,0
+China,Hebei,1,0,0
+China,Heilongjiang,0,0,0
+China,Henan,5,0,0
+China,Hong Kong,0,0,0
+China,Hubei,444,0,0
+China,Hunan,4,0,0
+China,Inner Mongolia,0,0,0
+China,Jiangsu,1,0,0
+China,Jiangxi,2,0,0
+China,Jilin,0,0,0
+China,Liaoning,2,0,0
+China,Macau,1,0,0
+China,Ningxia,1,0,0
+China,Qinghai,0,0,0
+China,Shaanxi,0,0,0
+China,Shandong,2,0,0
+China,Shanghai,9,0,0
+China,Shanxi,1,0,0
+China,Sichuan,5,0,0
+China,Taiwan,1,0,0
+China,Tianjin,4,0,0
+China,Tibet,0,0,0
+China,Xinjiang,0,0,0
+China,Yunnan,1,0,0
+China,Zhejiang,10,0,0
+Egypt,Unknow,1,0,0
+Finland,Unknow,1,0,0
+France,Unknow,2,0,0
+Germany,Bavaria,1,0,0
+Germany,Unknow,8,0,0
+Hong Kong,Hong Kong,2,0,0
+India,Unknow,1,0,0
+Italy,Unknow,2,0,0
+Ivory Coast,Unknow,0,0,0
+Japan,Unknow,2,0,0
+Macau,Macau,2,0,0
+Mainland China,Anhui,9,0,0
+Mainland China,Beijing,22,0,0
+Mainland China,Chongqing,9,0,0
+Mainland China,Fujian,5,0,0
+Mainland China,Gansu,2,0,0
+Mainland China,Guangdong,32,0,2
+Mainland China,Guangxi,5,0,0
+Mainland China,Guizhou,3,0,0
+Mainland China,Hainan,5,0,0
+Mainland China,Hebei,1,1,0
+Mainland China,Heilongjiang,2,0,0
+Mainland China,Henan,5,0,0
+Mainland China,Hubei,444,17,28
+Mainland China,Hunan,9,0,0
+Mainland China,Inner Mongolia,0,0,0
+Mainland China,Jiangsu,5,0,0
+Mainland China,Jiangxi,7,0,0
+Mainland China,Jilin,1,0,0
+Mainland China,Liaoning,3,0,0
+Mainland China,Ningxia,1,0,0
+Mainland China,Qinghai,0,0,0
+Mainland China,Shaanxi,3,0,0
+Mainland China,Shandong,6,0,0
+Mainland China,Shanghai,16,0,0
+Mainland China,Shanxi,1,0,0
+Mainland China,Sichuan,8,0,0
+Mainland China,Tianjin,4,0,0
+Mainland China,Tibet,0,0,0
+Mainland China,Xinjiang,2,0,0
+Mainland China,Yunnan,2,0,0
+Mainland China,Zhejiang,27,0,0
+Malaysia,Unknow,0,0,0
+Mexico,Unknow,0,0,0
+Nepal,Unknow,1,0,0
+Others,Cruise Ship,61,0,0
+Others,Diamond Princess cruise ship,64,0,0
+Philippines,Unknow,0,0,0
+Russia,Unknow,2,0,0
+Singapore,Unknow,1,0,0
+South Korea,Unknow,1,0,0
+Spain,Unknow,1,0,0
+Sri Lanka,Unknow,1,0,0
+Sweden,Unknow,1,0,0
+Taiwan,Taiwan,1,0,0
+Thailand,Unknow,2,0,0
+UK,Unknow,2,0,0
+US,Arizona,1,0,0
+US,"Boston, MA",1,0,0
+US,California,2,0,0
+US,Chicago,1,0,0
+US,"Chicago, IL",2,0,0
+US,Illinois,1,0,0
+US,"Los Angeles, CA",1,0,0
+US,"Madison, WI",1,0,0
+US,"Orange, CA",1,0,0
+US,"San Antonio, TX",1,0,0
+US,"San Benito, CA",2,0,0
+US,"San Diego County, CA",1,0,0
+US,"Santa Clara, CA",1,0,0
+US,"Seattle, WA",1,0,0
+US,"Tempe, AZ",1,0,0
+US,Washington,1,0,0
+United Arab Emirates,Unknow,4,0,0
+Vietnam,Unknow,2,0,0
